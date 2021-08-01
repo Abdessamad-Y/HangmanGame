@@ -1,0 +1,1 @@
+this is basic hangman game where you have to guess wich one of the word from the list is chosen and you try to guess it
